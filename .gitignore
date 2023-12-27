@@ -1,1 +1,4 @@
 venv
+dist
+build
+census_income.egg-info
